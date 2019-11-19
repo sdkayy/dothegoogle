@@ -1,0 +1,19 @@
+{
+  "name": "google-question-ss",
+  "version": "0.0.1",
+  "description": "Takes in a query and sends back the google card in form of a screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sdk",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^2.0.0",
+    "twit": "^2.2.11",
+    "uuid": "^3.3.3"
+  }
+}
